@@ -1,4 +1,4 @@
-# 📚 Hackathon Learning Path: AI Idol Interaction System with DataCamp & Amazon
+# 📚 Hackathon Learning Path: AI Idol Interaction System with DataCamp & Amazon Learning Path
 
 Welcome to your official learning roadmap for preparing the immersive **AI Idol Fan Interaction System**! This README outlines a structured course schedule using **DataCamp** and **Amazon AI tools**, organized by skill level: Beginner → Intermediate → Advanced.
 
