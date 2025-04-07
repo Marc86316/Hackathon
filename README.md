@@ -71,19 +71,61 @@ Your goal is to develop an AI idol that reflects a unique personality using **te
 
 ---
 
-## 🛠️ Project Suggestions
+# Hackathon Learning Timeline (Weekly View)
 
-- Create a virtual idol that responds with personality-aware answers.
-- Analyze speech tone to adjust voice pitch using Public Voice API.
-- Use Amazon Q to handle context-aware conversations.
-- Build a prototype where fans can "talk" to the AI idol in real-time.
+This learning plan is designed to help you prepare for the AI Idol Hackathon by progressively mastering core skills. It assumes 4–6 hours of learning per day and incorporates both DataCamp learning and Amazon tool research.
 
 ---
 
-## 📦 Environment Setup
+## Week 1: Foundation (April 7–13)
 
-1. **Clone your project repo**
-   ```bash
-   git clone <your-repo-url>
-   cd your-repo
+- Complete:
+  - [Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)
+  - [Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)
+  - [Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)
+  - [Deep Learning in Python](https://www.datacamp.com/tracks/deep-learning-in-python) (Part 1)
+
+- Attend:
+  - Beginner Generative AI Workshop (Saturday) 2025/4/12（六）13:00-17:00【初階】生成式 AI 示範工作坊
+
+---
+
+## Week 2: Intermediate Skills & Amazon Tools (April 14–20)
+
+- Complete:
+  - [Deep Learning in Python](https://www.datacamp.com/tracks/deep-learning-in-python) (Part 2)
+  - [Amazon Q Assistant – Developer Guide](https://docs.aws.amazon.com/amazonq/latest/qdeveloperguide/what-is-amazon-q.html)
+  - Research: Amazon Nova and AWS generative AI use cases
+  - [Advanced NLP with spaCy](https://www.datacamp.com/courses/advanced-nlp-with-spacy)
+
+- Attend:
+  - Vyin AI Enterprise Data Workshop (Thursday) 2025/4/17（四）18:00-19:00 AI 偶像：橘子集團 Vyin AI 企業數據工作坊
+  - Advanced Generative AI Workshops I & II (Weekend) 2025/4/19-20（六/日）13:00-17:00 【進階】生成式 AI 示範工作坊 (I)/(II)
+
+---
+
+## Week 3: System Design & Final Integration (April 21–25)
+
+- Design:
+  - Multimodal system architecture for voice, text, and image data
+  - Interaction logic and personality modeling for the AI idol
+
+- Build:
+  - Integrate chatbot, NLP, and voice API into a unified prototype
+  - Test user interaction flow, voice response, and system timing
+
+- Polish:
+  - Finalize system behavior and prepare for demo and Q&A
+
+---
+
+## Final Phase: Competition (April 26–27)
+
+- Present your prototype in the final Hackathon
+- Demonstrate how your AI idol simulates human-like interaction using NLP and voice
+- Highlight system integration, emotional nuance, and user engagement
+
+---
+
+**Tip:** Adjust your pace if needed, but aim to complete each week’s block before moving on. Practice and iteration are key to success!
 
