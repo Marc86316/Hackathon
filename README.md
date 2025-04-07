@@ -9,19 +9,20 @@ This project aims to leverage AI technologies to create an immersive fan interac
 Below is a list of DataCamp courses and online resources closely related to this project. It is recommended to study and implement them in sequence:
 
 - **[Introduction to Natural Language Processing in Python](https://www.datacamp.com/courses/introduction-to-natural-language-processing-in-python)**  
-  Master fundamental NLP techniques: text segmentation, regular expressions, topic extraction, and classification, laying a solid foundation for subsequent model building. ::contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}
+  Master fundamental NLP techniques: text segmentation, regular expressions, topic extraction, and classification, laying a solid foundation for subsequent model building.
 
 - **[Spoken Language Processing in Python](https://www.datacamp.com/courses/spoken-language-processing-in-python)**  
-  ::contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}&#8203;:contentReference[oaicite:4]{index=4}
+  Learn audio data preprocessing, transformation, and speech recognition techniques to assist in generating idol voices using the Public Voice API.
 
 - **[Building Chatbots in Python](https://www.datacamp.com/courses/building-chatbots-in-python)**  
-  ::contentReference[oaicite:5]{index=5} :contentReference[oaicite:6]{index=6}&#8203;:contentReference[oaicite:7]{index=7}
+  Explore how to construct natural dialogue systems and integrate NLP techniques with APIs to simulate idol-style conversational content.
 
 - **[Deep Learning in Python](https://www.datacamp.com/tracks/deep-learning-in-python)**  
-  ::contentReference[oaicite:8]{index=8} :contentReference[oaicite:9]{index=9}&#8203;:contentReference[oaicite:10]{index=10}
+  Learn how to build deep learning models using TensorFlow or PyTorch to achieve multimodal data feature extraction and generation.
 
 - **[Data Manipulation with pandas](https://www.datacamp.com/courses/data-manipulation-with-pandas)**  
-  ::contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}&#8203;:contentReference[oaicite:13]{index=13}
+  Enhance data preprocessing and integration capabilities to ensure seamless collaboration between different data sources (text, voice, image).
 
-Additionally, it is recommended to refer to online articles and official documentation, such as DataCamp Blog's beginner's guide to NLP, to gain a deeper understanding of NLP concepts and implementation techniques. ::contentReference[oaicite:14]{index=14}
+Additionally, it is recommended to refer to online articles and official documentation, such as DataCamp Blog's beginner's guide to NLP, to gain a deeper understanding of NLP concepts and implementation techniques.
 
+---
