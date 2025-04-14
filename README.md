@@ -68,7 +68,9 @@ Your goal is to develop an AI idol that reflects a unique personality using **te
     - Design and implement a system that processes text, voice, and video data together.  
     - Use deep learning (e.g., transformers, CNNs) to generate synchronized responses and visuals.  
     _🎯 Duration: Flexible, depends on implementation depth_
-
+11. **[The Complete Guide to Machine Learning on AWS with Amazon SageMaker](https://www.datacamp.com/tutorial/aws-sagemaker-tutorial)**
+    - how to use AWS SageMaker to build, train, and deploy machine learning models.
+    - preparing data, training models, and deploying them as endpoints.
 ---
 
 # Hackathon Learning Timeline (Weekly View)
